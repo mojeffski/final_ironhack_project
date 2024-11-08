@@ -7,7 +7,7 @@ config.env
 
 # Ignore the virtual environment folder
 env/
-
+venv/
 .DS_Store
 
 2_lobby_register_scraper/utils/
