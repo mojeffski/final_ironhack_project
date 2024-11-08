@@ -1,0 +1,73 @@
+
+          Message  002
+
+Communication from the Commission - TRIS/(2020) 04477
+Directive (EU) 2015/1535
+Translation of the message 001
+Notification: 2020/0791/F
+
+No abre el plazo - Nezahajuje odklady - Fristerne indledes ikke - Kein Fristbeginn - Viivituste perioodi ei avata - Καμμία έναρξη προθεσμίας - Does not open the delays - N'ouvre pas de délais - Non fa decorrere la mora - Neietekmē atlikšanu - Atidėjimai nepradedami - Nem nyitja meg a késéseket - Ma’ jiftaħx il-perijodi ta’ dawmien - Geen termijnbegin - Nie otwiera opóźnień - Não inicia o prazo - Neotvorí oneskorenia - Ne uvaja zamud - Määräaika ei ala tästä - Inleder ingen frist - Не се предвижда период на прекъсване - Nu deschide perioadele de stagnare - Nu deschide perioadele de stagnare.
+
+(MSG: 202004477.EN)
+1.	MSG 002 IND      2020 0791 F   EN            14-12-2020 F   NOTIF
+
+2.	F
+
+3A.	Direction générale des entreprises 
+	SQUALPI
+	Bât. Sieyès -Teledoc 151
+	61, Bd Vincent Auriol
+	75703  PARIS Cedex 13
+	d9834.france@finances.gouv.fr
+
+3B.	Ministère de la transition écologique
+	Direction générale de l'aménagement, du logement et de la nature
+	Direction de l'habitat, de l'urbanisme et des paysages
+	Sous-direction de la qualité de la construction
+	BUREAU DE LA QUALITÉ TECHNIQUE ET DE LA RÉGLEMENTATION TECHNIQUE DE LA CONSTRUCTION
+
+4.	2020/0791/F - B00
+
+5.	Order approving the calculation method provided for in Article R111-20-5 of the Construction and Housing Code
+
+6.	Construction products, decorative products, electrical, electronic and HVAC equipment
+
+7.	-
+
+8.	The draft Order approving the calculation method provided for in Article R111-20-5 of the Construction and Housing Code approves the applicable calculation method used to verify compliance with the requirements provided for in the draft Decree on the energy and environmental performance requirements for residential, office or primary or secondary education buildings in metropolitan France.
+
+9.	By signing the Paris Agreement in 2015, France made an important commitment to the fight against climate change. This ambition was reaffirmed in the energy-climate law, which plans to achieve carbon neutrality by 2050; improving the energy and environmental performance of new buildings is an important part of achieving this objective.
+
+	This means reducing the energy needs of buildings, limiting the use of fossil or non-renewable energies and reducing the impact of building components on climate change (which often represents more than 50% of the impact on climate change of new buildings). In addition, it appears necessary to improve the summer comfort of buildings, firstly to ensure that they remain comfortable in a context of global warming and secondly to limit subsequent energy consumption associated with cooling.
+
+	In order to quantify a building’s energy and environmental performance, it must be possible to estimate its conventional energy consumption, impact on climate change and summer comfort according to uniform rules for the various construction plans. This is the purpose of the calculation method approved by the draft Order.
+
+10.	Reference(s) to basic text(s): - Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings, as amended by Directive 2018/844 of the European Parliament and of the Council of 30 May 2018, in particular Articles 3, 4 and 6 thereof;
+	- Construction and Housing Code (Articles L111-9, L134-2, L151-1);
+	- Town Planning Code (Articles L462-1, R*421-2, R*421-5).
+
+11.	No
+
+12.	-
+
+13.	No
+
+14.	No
+
+15.	-
+
+16.	TBT aspect
+
+	Yes
+
+	TBT aspect
+
+	No - the draft is neither a sanitary nor phytosanitary measure.
+
+**********
+European Commission
+
+Contact point Directive (EU) 2015/1535
+Fax: +32 229 98043
+email: grow-dir2015-1535-central@ec.europa.eu
+        

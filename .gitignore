@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+config.env
+
+# Ignore the Flask application folder
+4_FlaskApp/
+
+# Ignore the virtual environment folder
+env/
+
+.DS_Store
