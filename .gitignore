@@ -9,3 +9,5 @@ config.env
 env/
 
 .DS_Store
+
+2_lobby_register_scraper/utils/
