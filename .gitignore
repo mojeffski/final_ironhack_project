@@ -10,7 +10,7 @@ env/
 venv/
 .DS_Store
 
-2_lobby_register_scraper/utils/
+# 2_lobby_register_scraper/utils/
 2_lobby_register_scraper/datasets/inputs/~$organisations_in_transparency_register_jan_23.xlsx
 2_lobby_register_scraper/datasets/inputs/~$cleaned_network_data.xlsx
 
